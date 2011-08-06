@@ -23,11 +23,11 @@ Gravatar China for WordPress 特性
 
 Gravatar China for WordPress 说明
 
-	* 本插件针对中国大陆的网络环境制作；
+* 本插件针对中国大陆的网络环境制作；
 
-	* 一般情况下，你可以在 Gravatar 头像不能正常访问的时候启用本插件的 “Gravatar 补丁”，它能帮助你的 WordPress 访客连接到正常的头像地址上；
+* 一般情况下，你可以在 Gravatar 头像不能正常访问的时候启用本插件的 “Gravatar 补丁”，它能帮助你的 WordPress 访客连接到正常的头像地址上；
 
-	* 通常，根据网页前端的性能优化来说，不推荐用户启用 “Gravatar 本地缓存”，因为它对 WordPress 的性能有一定的影响，当然这个影响仅限于生成本地缓存的时候；（启用缓存前请确认你的 WordPress 目录 wp-content/plugins/gravatar-cn/cache 可写）
+* 通常，根据网页前端的性能优化来说，不推荐用户启用 “Gravatar 本地缓存”，因为它对 WordPress 的性能有一定的影响，当然这个影响仅限于生成本地缓存的时候；（启用缓存前请确认你的 WordPress 目录 wp-content/plugins/gravatar-cn/cache 可写）
 	
 == Installation ==
 
@@ -39,17 +39,8 @@ Gravatar China for WordPress 说明
 
 1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
 the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
 
 == Changelog ==
 
 = 1.0 =
 * 新建插件.
-
-== Arbitrary section ==
-
-...
-
-== A brief Markdown Example ==
-
-...
